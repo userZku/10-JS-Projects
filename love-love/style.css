@@ -17,6 +17,8 @@ body {
 
 .text {
   font-size: 3rem;
+  padding: 2rem;
+  text-align: center;
 }
 
 .emoji {
